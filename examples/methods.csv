@@ -1,0 +1,4 @@
+Methods,Dataset A,Dataset B
+Random neurons,0.55,0.56
+Half extra concepts,0.71,0.81
+Full model,0.72,0.82
